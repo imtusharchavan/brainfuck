@@ -1,6 +1,0 @@
-make --dry-run --keep-going --print-directory
-make: Entering directory '/home/tushar/projects/brainfuck'
-rm -f brainfuck
-gcc brainfuck.c -o brainfuck
-make: Leaving directory '/home/tushar/projects/brainfuck'
- 
